@@ -1,0 +1,59 @@
+[
+    {
+        "name": "גיטרה חשמלית",
+        "price": 50,
+        "quantity": 50,
+        "category": "Guitars",
+        "image": "ElectricGuitar"
+
+    },
+    {
+        "name": "גיטרה קלאסית",
+        "price": 20,
+        "quantity": 50,
+        "category": "Guitars",
+        "image" : "ClassicGuitar"
+    },
+    {
+        "name": "נבל",
+        "price": 20000,
+        "quantity": 2,
+        "category": "Guitars",
+        "image" : "harp"
+    },
+    {
+        "name": "כינור",
+        "price": 5000,
+        "quantity": 5,
+        "category": "Guitars",
+        "image" : "Violin"
+    },
+    {
+        "name": "תופים",
+        "price": 20,
+        "quantity": 50,
+        "category": "drums",
+        "image" : "Drums"
+    },
+    {
+        "name": "חליל",
+        "price": 20,
+        "quantity": 50,
+        "category": "tool",
+        "image" : "flute"
+    },
+    {
+        "name": "פסנתר כנף",
+        "price": 20,
+        "quantity": 50,
+        "category": "percussions",
+        "image" : "GrandPiano"
+    },
+    {
+        "name": "פסנתר",
+        "price": 20,
+        "quantity": 50,
+        "category": "percussions",
+        "image" : "piano"
+    }
+]
